@@ -6,7 +6,7 @@ output: html_document
 ---
 
 
-Source code of the manuscript **Single-cell transcriptomic analysis of adult mouse pituitary reveals sexual dimorphism and physiologic demand-induced cellular plasticity** (Protein Cell (2020). https://doi.org/10.1007/s13238-020-00705-x) 
+Source code of the manuscript **Single-cell transcriptomic analysis of adult mouse pituitary reveals sexual dimorphism and physiologic demand-induced cellular plasticity** (Protein & Cell, 2020. https://doi.org/10.1007/s13238-020-00705-x) 
 
 # Content
 * mPit_clustering_Dropseq.ipynb: Clustering of mouse pituitary cells from Drop-seq experiment
